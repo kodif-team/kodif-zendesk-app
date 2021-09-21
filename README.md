@@ -2,13 +2,4 @@
 
 Kodif is a low-code platform that lets non-technical teams build powerful self-serve CX flows
 
-### The following information is displayed:
-
-* info1
-* info2
-* info3
-
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
-
-### Screenshot(s):
-[put your screenshots down here.]
+Please submit bug reports to [support@kodif.io](). Pull requests are welcome.
