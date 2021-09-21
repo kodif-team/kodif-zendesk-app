@@ -1,8 +1,8 @@
 {
   "app": {
     "name": "Kodif",
-    "short_description": "Kodif is a low-code platform that lets non-technical teams build powerful self-serve CX flows.",
-    "long_description": "Kodif is a low-code platform that lets non-technical teams build powerful self-serve CX flows.",
-    "installation_instructions": "Simply click install."
+    "short_description": "Build powerful self-service flows",
+    "long_description": "Kodif is a low-code platform that lets non-technical teams build powerful self-serve CX flows.\n\n1. Build self-service flows (visit www.kodif.io to build flows).\n2. Help your agents solve the tickets faster and more consistently by showing the Kodif flows in your Zendesk Agent UI.\n3. Resolve customer issues directly by surfacing the Kodif flows on your Zendesk Help Center.",
+    "installation_instructions": "Install Scratchpad from the marketplace. There are currently no settings to configure.\n\n"
   }
 }
