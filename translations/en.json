@@ -1,0 +1,8 @@
+{
+  "app": {
+    "name": "Kodif",
+    "short_description": "Kodif is a low-code platform that lets non-technical teams build powerful self-serve CX flows.",
+    "long_description": "Kodif is a low-code platform that lets non-technical teams build powerful self-serve CX flows.",
+    "installation_instructions": "Simply click install."
+  }
+}
