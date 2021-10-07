@@ -1,9 +1,9 @@
 {
   "name": "Kodif",
   "author": {
-    "name": "Norm Usenkanov",
+    "name": "Kodif Support",
     "email": "support@kodif.io",
-    "url": "http://www.kodif.io"
+    "url": "https://kodif.io"
   },
   "defaultLocale": "en",
   "private": false,
