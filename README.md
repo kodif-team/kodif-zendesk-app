@@ -4,6 +4,12 @@ Kodif is a low-code platform that lets non-technical teams build powerful self-s
 
 Please submit bug reports to [support@kodif.io](). Pull requests are welcome.
 
+# install zat
+ * gem install rake
+ * gem install zendesk_apps_tools
+
+link:
+https://developer.zendesk.com/documentation/apps/zendesk-app-tools-zat/installing-and-using-the-zendesk-apps-tools/#installing-zat
 
 # run
 
